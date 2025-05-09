@@ -1,0 +1,8 @@
+numpy
+av==10.*
+faster-whisper==0.3.0
+pyaudio
+ollama
+coqui-tts
+pyttsx3
+sounddevice
