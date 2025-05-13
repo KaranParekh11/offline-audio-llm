@@ -130,12 +130,3 @@ Press Enter to process the pre-recorded audio file (`test.mp3`) and get a spoken
 
 ---
 
-## 📣 Want More?
-
-If you want the architecture diagram, setup guide, or full source code — just drop a "Voice" in the comments or DM me.
-
-Offline AI is not just possible — it's practical, and it's here. 💥
-
----
-
-#EdgeAI #OfflineAI #VoiceAssistant #PythonDeveloper #LocalLLM #OpenSourceAI #Whisper #TTS #GPT4All #AIonCPU #PrivacyTech
